@@ -1,7 +1,5 @@
 # Online Marketing Site
 This is a tiny django project, that imitates website to sell and buy stuff.
-Inbox is only partly working for now
-Logout is disabled for now.
 
 Testuser are available. You can also register your own testuser or superuser.
 
